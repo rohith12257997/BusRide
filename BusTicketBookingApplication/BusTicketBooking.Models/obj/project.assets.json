@@ -741,25 +741,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rohit\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\ideapad\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rohit\\OneDrive\\Documents\\Advancedweb\\BusTicketBookingApplication\\BusTicketBookingApplication\\BusTicketBooking.Models\\BusTicketBooking.Models.csproj",
+      "projectUniqueName": "C:\\Users\\ideapad\\source\\repos\\BusTicketBookingApplication\\BusTicketBooking.Models\\BusTicketBooking.Models.csproj",
       "projectName": "BusTicketBooking.Models",
-      "projectPath": "C:\\Users\\rohit\\OneDrive\\Documents\\Advancedweb\\BusTicketBookingApplication\\BusTicketBookingApplication\\BusTicketBooking.Models\\BusTicketBooking.Models.csproj",
-      "packagesPath": "C:\\Users\\rohit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rohit\\OneDrive\\Documents\\Advancedweb\\BusTicketBookingApplication\\BusTicketBookingApplication\\BusTicketBooking.Models\\obj\\",
+      "projectPath": "C:\\Users\\ideapad\\source\\repos\\BusTicketBookingApplication\\BusTicketBooking.Models\\BusTicketBooking.Models.csproj",
+      "packagesPath": "C:\\Users\\ideapad\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ideapad\\source\\repos\\BusTicketBookingApplication\\BusTicketBooking.Models\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\rohit\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\ideapad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -804,7 +799,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
       }
     }
   }
