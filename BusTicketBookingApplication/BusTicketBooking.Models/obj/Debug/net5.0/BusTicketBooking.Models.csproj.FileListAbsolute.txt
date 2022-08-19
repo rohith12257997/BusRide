@@ -10,3 +10,15 @@ C:\Users\ideapad\source\repos\BusTicketBookingApplication\BusTicketBooking.Model
 C:\Users\ideapad\source\repos\BusTicketBookingApplication\BusTicketBooking.Models\obj\Debug\net5.0\ref\BusTicketBooking.Models.dll
 C:\Users\ideapad\source\repos\BusTicketBookingApplication\BusTicketBooking.Models\obj\Debug\net5.0\BusTicketBooking.Models.pdb
 C:\Users\ideapad\source\repos\BusTicketBookingApplication\BusTicketBooking.Models\obj\Debug\net5.0\BusTicketBooking.Models.csproj.AssemblyReference.cache
+C:\Users\rohit\Downloads\New folder (15)\BusRide\BusTicketBookingApplication\BusTicketBooking.Models\bin\Debug\net5.0\BusTicketBooking.Models.deps.json
+C:\Users\rohit\Downloads\New folder (15)\BusRide\BusTicketBookingApplication\BusTicketBooking.Models\bin\Debug\net5.0\BusTicketBooking.Models.dll
+C:\Users\rohit\Downloads\New folder (15)\BusRide\BusTicketBookingApplication\BusTicketBooking.Models\bin\Debug\net5.0\BusTicketBooking.Models.pdb
+C:\Users\rohit\Downloads\New folder (15)\BusRide\BusTicketBookingApplication\BusTicketBooking.Models\obj\Debug\net5.0\BusTicketBooking.Models.csproj.AssemblyReference.cache
+C:\Users\rohit\Downloads\New folder (15)\BusRide\BusTicketBookingApplication\BusTicketBooking.Models\obj\Debug\net5.0\BusTicketBooking.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rohit\Downloads\New folder (15)\BusRide\BusTicketBookingApplication\BusTicketBooking.Models\obj\Debug\net5.0\BusTicketBooking.Models.AssemblyInfoInputs.cache
+C:\Users\rohit\Downloads\New folder (15)\BusRide\BusTicketBookingApplication\BusTicketBooking.Models\obj\Debug\net5.0\BusTicketBooking.Models.AssemblyInfo.cs
+C:\Users\rohit\Downloads\New folder (15)\BusRide\BusTicketBookingApplication\BusTicketBooking.Models\obj\Debug\net5.0\BusTicketBooking.Models.csproj.CoreCompileInputs.cache
+C:\Users\rohit\Downloads\New folder (15)\BusRide\BusTicketBookingApplication\BusTicketBooking.Models\obj\Debug\net5.0\BusTicketBooking.Models.dll
+C:\Users\rohit\Downloads\New folder (15)\BusRide\BusTicketBookingApplication\BusTicketBooking.Models\obj\Debug\net5.0\refint\BusTicketBooking.Models.dll
+C:\Users\rohit\Downloads\New folder (15)\BusRide\BusTicketBookingApplication\BusTicketBooking.Models\obj\Debug\net5.0\BusTicketBooking.Models.pdb
+C:\Users\rohit\Downloads\New folder (15)\BusRide\BusTicketBookingApplication\BusTicketBooking.Models\obj\Debug\net5.0\ref\BusTicketBooking.Models.dll
