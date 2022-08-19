@@ -1,4 +1,6 @@
 using BusTicket.DataAccess;
+using BusTicket.DataAccess.Infrastructure;
+using BusTicket.DataAccess.Repositories;
 using BusTicketBooking.Models;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -28,9 +30,14 @@ namespace BusTicketBookingApplication
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+            services.AddRazorPages();
+            services.AddScoped<IUnitOfWork, UnitOfWork>();
             services.AddDbContext<ApplicationDbContext>(options =>
             options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
-            services.AddDefaultIdentity<ApplicationUser>().AddRoles<IdentityRole>()
+            //services.AddDefaultIdentity<ApplicationUser>().AddRoles<IdentityRole>()
+            //    .AddEntityFrameworkStores<ApplicationDbContext>();
+            services.AddIdentity<ApplicationUser, IdentityRole>().AddDefaultTokenProviders()
+                .AddDefaultUI()
                 .AddEntityFrameworkStores<ApplicationDbContext>();
         }
 
@@ -58,7 +65,9 @@ namespace BusTicketBookingApplication
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{area=admin}/{controller=bus}/{action=Index}/{id?}");
+
+                endpoints.MapRazorPages();
             });
         }
     }

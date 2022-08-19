@@ -199,3 +199,7 @@ C:\Users\ideapad\source\repos\BusTicketBookingApplication\BusTicketBookingApplic
 C:\Users\ideapad\source\repos\BusTicketBookingApplication\BusTicketBookingApplication\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
 C:\Users\ideapad\source\repos\BusTicketBookingApplication\BusTicketBookingApplication\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
 C:\Users\ideapad\source\repos\BusTicketBookingApplication\BusTicketBookingApplication\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\ideapad\source\repos\BusTicketBookingApplication\BusTicketBookingApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\Bus\Index.cshtml.g.cs
+C:\Users\ideapad\source\repos\BusTicketBookingApplication\BusTicketBookingApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\ideapad\source\repos\BusTicketBookingApplication\BusTicketBookingApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\ideapad\source\repos\BusTicketBookingApplication\BusTicketBookingApplication\obj\Debug\net5.0\Razor\Areas\Admin\Views\Bus\CreateUpdate.cshtml.g.cs

@@ -2,7 +2,6 @@ C:\Users\ideapad\source\repos\BusTicketBookingApplication\BusTicketBooking.Model
 C:\Users\ideapad\source\repos\BusTicketBookingApplication\BusTicketBooking.Models\bin\Debug\net5.0\BusTicketBooking.Models.dll
 C:\Users\ideapad\source\repos\BusTicketBookingApplication\BusTicketBooking.Models\bin\Debug\net5.0\ref\BusTicketBooking.Models.dll
 C:\Users\ideapad\source\repos\BusTicketBookingApplication\BusTicketBooking.Models\bin\Debug\net5.0\BusTicketBooking.Models.pdb
-C:\Users\ideapad\source\repos\BusTicketBookingApplication\BusTicketBooking.Models\obj\Debug\net5.0\BusTicketBooking.Models.csproj.AssemblyReference.cache
 C:\Users\ideapad\source\repos\BusTicketBookingApplication\BusTicketBooking.Models\obj\Debug\net5.0\BusTicketBooking.Models.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ideapad\source\repos\BusTicketBookingApplication\BusTicketBooking.Models\obj\Debug\net5.0\BusTicketBooking.Models.AssemblyInfoInputs.cache
 C:\Users\ideapad\source\repos\BusTicketBookingApplication\BusTicketBooking.Models\obj\Debug\net5.0\BusTicketBooking.Models.AssemblyInfo.cs
@@ -10,3 +9,4 @@ C:\Users\ideapad\source\repos\BusTicketBookingApplication\BusTicketBooking.Model
 C:\Users\ideapad\source\repos\BusTicketBookingApplication\BusTicketBooking.Models\obj\Debug\net5.0\BusTicketBooking.Models.dll
 C:\Users\ideapad\source\repos\BusTicketBookingApplication\BusTicketBooking.Models\obj\Debug\net5.0\ref\BusTicketBooking.Models.dll
 C:\Users\ideapad\source\repos\BusTicketBookingApplication\BusTicketBooking.Models\obj\Debug\net5.0\BusTicketBooking.Models.pdb
+C:\Users\ideapad\source\repos\BusTicketBookingApplication\BusTicketBooking.Models\obj\Debug\net5.0\BusTicketBooking.Models.csproj.AssemblyReference.cache
